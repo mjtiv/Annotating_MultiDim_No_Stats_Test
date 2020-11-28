@@ -7,8 +7,8 @@ VEP Website: https://uswest.ensembl.org/info/docs/tools/vep/index.html
 
 REQUIRED INPUT FILES
 
-1. Testable_VEP_Results.txt
-- All the annotated data from VEP
+-1. Testable_VEP_Results.txt
+All the annotated data from VEP
 
 2. sig_multi_dim_adj_results.txt
 - All the significant multi-dimensional adjusted results for a specific tissue
